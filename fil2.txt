@@ -1,1 +1,3 @@
 Detta är fil2
+Lagt till text
+
